@@ -1,2 +1,2 @@
 # 69
-The static site for the game 69
+Do you like 69 style? Visit the site to play.
